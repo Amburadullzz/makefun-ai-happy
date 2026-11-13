@@ -1,3 +1,4 @@
+# entry for make.fun
 #!/usr/bin/env python3
 """Copy entry.png from this script's directory to $MAKEFUN_OUTPUT_DIR/entry.png.
 
